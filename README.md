@@ -1,8 +1,9 @@
 # 自己紹介
 
 >## 概要
+- 内視鏡、病院検診検査、POS機販売、通信交換機など関連の知識があります
 - 9年.NET（WPF、UWP、Xamarin.Froms、WinForm、ASP.NETなど）開発経験
-- ソリューション構築と、要件定義から運転保守までの経験をお持ち
+- ソリューション構築と、要件定義から運転保守までの経験をお持ちます
 
 >## 経歴
 - 2011.09　検査システム開発（兵庫県姫路）
@@ -21,6 +22,45 @@
 >## 趣味
 - ラーニング
 - 登山（富士山登頂2回）
+
+>## 言語
+- 日本語(ビジネス)
+- 中国語(ネイティブ)
+- 英語(日常会話)
+
+>## 技術
+- OS: 
+  - Windows
+  - Linux
+  - IOS
+- Develop Lanugae: 
+  - C#
+  - JavaScript
+  - Python
+  - Ruby
+  - PHP
+- Framework:
+  - WPF
+  - Asp.Net MVC
+  - Xamarin.Froms
+  - EntityFramework
+  - Prism
+  - Dapper
+  - Jquery
+  - VueJs
+  - Angular
+  - MaterialDesign
+  - etc...
+- Cloud Platform:
+  - Azure
+  - AWS
+  - Alibaba
+- DataBase:
+  - PostgreSQL
+  - MySql
+  - Oracle
+  - SqlServer
+  - Sqlite
 
 >## その他
 - 技術共有のため、ブログも開設しています<br/>

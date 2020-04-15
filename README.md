@@ -28,6 +28,10 @@
 - 中国語(ネイティブ)
 - 英語(日常会話)
 
+>## その他
+- 技術共有のため、ブログも開設しています<br/>
+[https://www.cnblogs.com/lixiaobin](https://www.cnblogs.com/lixiaobin)
+
 >## 技術
 - OS: 
   - Windows
@@ -62,6 +66,8 @@
   - SqlServer
   - Sqlite
 
->## その他
-- 技術共有のため、ブログも開設しています<br/>
-[https://www.cnblogs.com/lixiaobin](https://www.cnblogs.com/lixiaobin)
+>## 開発スピード
+![](sample/2020_04_13_fastdev.gif)
+
+>## サンプル
+![](sample/2020_04_09_login.gif)

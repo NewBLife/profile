@@ -54,6 +54,7 @@
   - VueJs
   - Angular
   - MaterialDesign
+  - [Odoo](https://www.odoo.com/ja_JP/)
   - etc...
 - Cloud Platform:
   - Azure
